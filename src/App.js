@@ -21,10 +21,10 @@ function App() {
        <div>
        <Switch>
 
-         <Route exact path='/'>
+              <Route exact path='/mern_stack/'>
           <Home />
          </Route>
-          <Route path='/Profile'>
+          <Route path='/mern_stack/Profile'>
           <Profile />
          </Route>
        </Switch>

@@ -26,12 +26,12 @@ return(
         <Nav navbar>
           <NavItem>
             <NavLink>
-              <Link to="/" className="navlink">Home</Link>
+              <Link to="/mern_stack/" className="navlink">Home</Link>
             </NavLink>
           </NavItem>
           <NavItem>
             <NavLink>
-              <Link to='/Profile' className="navlink">Profile</Link>
+              <Link to='/mern_stack/Profile' className="navlink">Profile</Link>
                
             </NavLink>
           </NavItem>
