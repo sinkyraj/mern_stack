@@ -1,0 +1,11 @@
+.navlink{
+
+  text-decoration: none;
+  color: black;
+}
+
+.navlink:hover{
+
+  text-decoration: none;
+  color:rgb(119, 112, 112);
+}
