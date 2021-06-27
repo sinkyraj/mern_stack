@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Navbar/Navbar.css"],"names":[],"mappings":"AAAA,SAEE,oBAAqB,CACrB,UACF,CAEA,eAEE,oBAAqB,CACrB,aACF","file":"main.de4bd947.chunk.css","sourcesContent":[".navlink{\r\n\r\n  text-decoration: none;\r\n  color: black;\r\n}\r\n\r\n.navlink:hover{\r\n\r\n  text-decoration: none;\r\n  color:rgb(119, 112, 112);\r\n}"]}

@@ -1,0 +1,1 @@
+//!collapsed //opposite of whatever the condition is open or close
